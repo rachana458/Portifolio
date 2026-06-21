@@ -40,18 +40,21 @@ const Hero = () => {
                     />
                 </div>
                 <h1 data-aos="fade-up" data-aos-delay="200" className="text-2xl text-white md:text-5xl text-center font-bold">
-                    Frontend Developer
+                    Rachana Yadav
                 </h1>
 
                 <h2 data-aos="fade-up" data-aos-delay="400" className="text-2xl px-2 text-gray-300">
-                    A junior <span className="text-violet-400">frontend developer</span> who loves to build
+                  I enjoy <span className="text-violet-400">building ideas</span> into real-world products that solve problems.
                 </h2>
 
                 <h3 data-aos="fade-up" data-aos-delay="600" className="text-lg text-gray-400 flex items-center">
                     Hi, I am Rachana - A passionate
                     <span className="text-violet-400 font-semibold inline">
                         <Typewriter options={{
-                            strings: ['Forntend Developer', 'ML Programmer'],
+                            strings: ['Software Engineer',
+  'Full Stack Developer',
+  'AI/ML Enthusiast',
+  'Problem Solver'],
                             autoStart: true,
                             loop: true,
                             delay: 75,
