@@ -75,7 +75,7 @@ const Hero = () => {
                     </a>
 
                     <a
-                        href="https://www.linkedin.com/in/rachana-yadav-7875762302r/"
+                        href="https://www.linkedin.com/in/rachana11/"
                         target="_blank"
                         rel="noreferrer"
                         className="hover:text-violet-400 transition-colors"
