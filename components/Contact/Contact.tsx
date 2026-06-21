@@ -41,9 +41,9 @@ const Contact = () => {
                     </p>
 
                     <div className="space-y-4 pt-4 text-2xl">
-                        <ContactItem icon={<FaPhoneAlt />} text="+9843582345" />
-                        <ContactItem icon={<FaEnvelope />} text="hello@example.com" />
-                        <ContactItem icon={<FaMapMarkerAlt />} text="Dhaka, Bangladesh" />
+                        <ContactItem icon={<FaPhoneAlt />} text="XXXXXXXXXX" />
+                        <ContactItem icon={<FaEnvelope />} text="yadavrachana458@gmail.com" />
+                        <ContactItem icon={<FaMapMarkerAlt />} text="Nepal" />
                     </div>
 
                     {/* SOCIAL ICONS */}
