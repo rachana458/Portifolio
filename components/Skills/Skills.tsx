@@ -7,6 +7,13 @@ import {
     SiNodedotjs,
     SiTailwindcss,
     SiTypescript,
+    SiExpress,
+    SiMongodb,
+    SiPython, 
+    SiCplusplus,
+    SiTensorflow, SiPandas, SiNumpy, SiScikitlearn,
+    SiGit, SiGithub,
+    FaPython, FaGitAlt
 } from "react-icons/si";
 
 const skills = [
@@ -16,6 +23,19 @@ const skills = [
     { icon: <SiNodedotjs />, name: "Node.js", percent: "88%" },
     { icon: <SiTailwindcss />, name: "Tailwind CSS", percent: "94%" },
     { icon: <SiTypescript />, name: "TypeScript", percent: "86%" },
+    { icon: <SiPython />, name: "Python", percent: "90%" },
+    { icon: <SiJavascript />, name: "JavaScript", percent: "88%" },
+    { icon: <SiTypescript />, name: "TypeScript", percent: "82%" },
+    { icon: <SiCplusplus />, name: "C++", percent: "80%" },
+    { icon: <SiScikitlearn />, name: "Scikit-Learn", percent: "85%" },
+    { icon: <SiPandas />, name: "Pandas", percent: "88%" },
+    { icon: <SiNumpy />, name: "NumPy", percent: "87%" },
+    { icon: <SiTensorflow />, name: "TensorFlow", percent: "75%" },
+    { icon: <SiMysql />, name: "MySQL", percent: "85%" },
+    { icon: <SiMongodb />, name: "MongoDB", percent: "80%" },
+    { icon: <SiGit />, name: "Git", percent: "88%" },
+    { icon: <SiGithub />, name: "GitHub", percent: "90%" },
+
 ];
 
 const Skills = () => {
