@@ -11,10 +11,15 @@ import {
     SiMongodb,
     SiPython, 
     SiCplusplus,
-    SiTensorflow, SiPandas, SiNumpy, SiScikitlearn,
-    SiGit, SiGithub,
-    FaPython, FaGitAlt
+    SiTensorflow, 
+    SiPandas, 
+    SiNumpy, 
+    SiScikitlearn,
+    SiGit, 
+    SiGithub,
+   
 } from "react-icons/si";
+import { FaPython, FaGitAlt } from "react-icons/fa";
 
 const skills = [
     { icon: <SiJavascript />, name: "JavaScript", percent: "89%" },
